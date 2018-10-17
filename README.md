@@ -1,2 +1,4 @@
 # echo_Hello_World
-practice repository
+
+これは練習用のリポジトリです。
+
